@@ -18,7 +18,7 @@
 
 I’m Zosia, a front-end developer :computer: and an amateur photographer :camera: from Poznań, Poland.
 
-I enjoy working with TypeScript & React but I also have some experience with Ember and Canvas element. I love learning new things by making games :space_invader:. You can read more about it on my personal website http://zofiakorcz.pl.
+I enjoy working with TypeScript & React but I also have some experience with Ember and Canvas element. I love learning new things by making games :space_invader:. You can read more about it on my personal website https://zofiakorcz.pl.
 
 I also like to express myself by taking photos: travel, nature and landscape photography are some of the themes I enjoy most. 
 
