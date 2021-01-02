@@ -29,7 +29,7 @@ During some (rare) spare time I enjoy playing board games :game_die:, cooking ra
 
 ### Find me elsewhere:
 
-*  Website http://zofiakorcz.pl
+*  Website https://zofiakorcz.pl
 *  Twitter https://twitter.com/intuitio
 *  Unsplash https://unsplash.com/@calanthe
 *  500px https://500px.com/korczzofia
