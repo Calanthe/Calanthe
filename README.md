@@ -22,8 +22,6 @@ I enjoy working with TypeScript & React but I also have some experience with Emb
 
 I also like to express myself by taking photos: travel, nature and landscape photography are some of the themes I enjoy most. 
 
-Despite that, I am also a mother :baby:. While I don't contribute, I probably take care of my baby :).
-
 During some (rare) spare time I enjoy playing board games :game_die:, cooking ramen :ramen: and reading good comic books :books:.
 
 
